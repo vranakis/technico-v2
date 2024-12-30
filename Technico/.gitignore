@@ -1,0 +1,15 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# Backend
+/Technico/bin
+/Technico/obj/
+/Technico/*.user
+/Technico/*.vs
+/Technico/appsettings*.json
+
+/TechnicoAPI/bin
+/TechnicoAPI/obj/
+/TechnicoAPI/*.user
+/TechnicoAPI/*.vs
+/TechnicoAPI/appsettings*.json
+

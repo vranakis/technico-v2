@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\svranakis\\react\\Technico-App-Fullstack\\Technico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{877FAD73-5541-45C0-A1C3-586C7B9EC50B}|Technico\\Technico.csproj|c:\\users\\svranakis\\react\\technico-app-fullstack\\technico\\technico\\context\\technicodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877FAD73-5541-45C0-A1C3-586C7B9EC50B}|Technico\\Technico.csproj|solutionrelative:technico\\context\\technicodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877FAD73-5541-45C0-A1C3-586C7B9EC50B}|Technico\\Technico.csproj|c:\\users\\svranakis\\react\\technico-app-fullstack\\technico\\technico\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877FAD73-5541-45C0-A1C3-586C7B9EC50B}|Technico\\Technico.csproj|solutionrelative:technico\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877FAD73-5541-45C0-A1C3-586C7B9EC50B}|Technico\\Technico.csproj|c:\\users\\svranakis\\react\\technico-app-fullstack\\technico\\technico\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877FAD73-5541-45C0-A1C3-586C7B9EC50B}|Technico\\Technico.csproj|solutionrelative:technico\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512B8EDB-E601-44F0-8F15-487989967E49}|TechnicoAPI\\TechnicoAPI.csproj|c:\\users\\svranakis\\react\\technico-app-fullstack\\technico\\technicoapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512B8EDB-E601-44F0-8F15-487989967E49}|TechnicoAPI\\TechnicoAPI.csproj|solutionrelative:technicoapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877FAD73-5541-45C0-A1C3-586C7B9EC50B}|Technico\\Technico.csproj|c:\\users\\svranakis\\react\\technico-app-fullstack\\technico\\technico\\migrations\\20241216105324_add-userid-to-repairs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877FAD73-5541-45C0-A1C3-586C7B9EC50B}|Technico\\Technico.csproj|solutionrelative:technico\\migrations\\20241216105324_add-userid-to-repairs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877FAD73-5541-45C0-A1C3-586C7B9EC50B}|Technico\\Technico.csproj|c:\\users\\svranakis\\react\\technico-app-fullstack\\technico\\technico\\repositories\\repairrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877FAD73-5541-45C0-A1C3-586C7B9EC50B}|Technico\\Technico.csproj|solutionrelative:technico\\repositories\\repairrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877FAD73-5541-45C0-A1C3-586C7B9EC50B}|Technico\\Technico.csproj|c:\\users\\svranakis\\react\\technico-app-fullstack\\technico\\technico\\services\\repairservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877FAD73-5541-45C0-A1C3-586C7B9EC50B}|Technico\\Technico.csproj|solutionrelative:technico\\services\\repairservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512B8EDB-E601-44F0-8F15-487989967E49}|TechnicoAPI\\TechnicoAPI.csproj|c:\\users\\svranakis\\react\\technico-app-fullstack\\technico\\technicoapi\\controllers\\repairscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512B8EDB-E601-44F0-8F15-487989967E49}|TechnicoAPI\\TechnicoAPI.csproj|solutionrelative:technicoapi\\controllers\\repairscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877FAD73-5541-45C0-A1C3-586C7B9EC50B}|Technico\\Technico.csproj|c:\\users\\svranakis\\react\\technico-app-fullstack\\technico\\technico\\models\\repair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877FAD73-5541-45C0-A1C3-586C7B9EC50B}|Technico\\Technico.csproj|solutionrelative:technico\\models\\repair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877FAD73-5541-45C0-A1C3-586C7B9EC50B}|Technico\\Technico.csproj|c:\\users\\svranakis\\react\\technico-app-fullstack\\technico\\technico\\interfaces\\irepairservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877FAD73-5541-45C0-A1C3-586C7B9EC50B}|Technico\\Technico.csproj|solutionrelative:technico\\interfaces\\irepairservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877FAD73-5541-45C0-A1C3-586C7B9EC50B}|Technico\\Technico.csproj|c:\\users\\svranakis\\react\\technico-app-fullstack\\technico\\technico\\dtos\\repairdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877FAD73-5541-45C0-A1C3-586C7B9EC50B}|Technico\\Technico.csproj|solutionrelative:technico\\dtos\\repairdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877FAD73-5541-45C0-A1C3-586C7B9EC50B}|Technico\\Technico.csproj|c:\\users\\svranakis\\react\\technico-app-fullstack\\technico\\technico\\interfaces\\irepairrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877FAD73-5541-45C0-A1C3-586C7B9EC50B}|Technico\\Technico.csproj|solutionrelative:technico\\interfaces\\irepairrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TechnicoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\svranakis\\react\\Technico-App-Fullstack\\Technico\\Technico\\Context\\TechnicoDbContext.cs",
+              "RelativeDocumentMoniker": "Technico\\Context\\TechnicoDbContext.cs",
+              "ToolTip": "C:\\Users\\svranakis\\react\\Technico-App-Fullstack\\Technico\\Technico\\Context\\TechnicoDbContext.cs",
+              "RelativeToolTip": "Technico\\Context\\TechnicoDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T14:57:25.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\svranakis\\react\\Technico-App-Fullstack\\Technico\\Technico\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Technico\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\svranakis\\react\\Technico-App-Fullstack\\Technico\\Technico\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Technico\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T14:22:28.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\svranakis\\react\\Technico-App-Fullstack\\Technico\\Technico\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Technico\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\svranakis\\react\\Technico-App-Fullstack\\Technico\\Technico\\Services\\UserService.cs",
+              "RelativeToolTip": "Technico\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T14:21:41.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\svranakis\\react\\Technico-App-Fullstack\\Technico\\TechnicoAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "TechnicoAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\svranakis\\react\\Technico-App-Fullstack\\Technico\\TechnicoAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "TechnicoAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T14:20:10.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241216105324_Add-userId-to-repairs.cs",
+              "DocumentMoniker": "C:\\Users\\svranakis\\react\\Technico-App-Fullstack\\Technico\\Technico\\Migrations\\20241216105324_Add-userId-to-repairs.cs",
+              "RelativeDocumentMoniker": "Technico\\Migrations\\20241216105324_Add-userId-to-repairs.cs",
+              "ToolTip": "C:\\Users\\svranakis\\react\\Technico-App-Fullstack\\Technico\\Technico\\Migrations\\20241216105324_Add-userId-to-repairs.cs",
+              "RelativeToolTip": "Technico\\Migrations\\20241216105324_Add-userId-to-repairs.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:53:24.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RepairsController.cs",
+              "DocumentMoniker": "C:\\Users\\svranakis\\react\\Technico-App-Fullstack\\Technico\\TechnicoAPI\\Controllers\\RepairsController.cs",
+              "RelativeDocumentMoniker": "TechnicoAPI\\Controllers\\RepairsController.cs",
+              "ToolTip": "C:\\Users\\svranakis\\react\\Technico-App-Fullstack\\Technico\\TechnicoAPI\\Controllers\\RepairsController.cs",
+              "RelativeToolTip": "TechnicoAPI\\Controllers\\RepairsController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAiwGkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:49:08.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RepairService.cs",
+              "DocumentMoniker": "C:\\Users\\svranakis\\react\\Technico-App-Fullstack\\Technico\\Technico\\Services\\RepairService.cs",
+              "RelativeDocumentMoniker": "Technico\\Services\\RepairService.cs",
+              "ToolTip": "C:\\Users\\svranakis\\react\\Technico-App-Fullstack\\Technico\\Technico\\Services\\RepairService.cs",
+              "RelativeToolTip": "Technico\\Services\\RepairService.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAmwNEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:49:04.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RepairRepository.cs",
+              "DocumentMoniker": "C:\\Users\\svranakis\\react\\Technico-App-Fullstack\\Technico\\Technico\\Repositories\\RepairRepository.cs",
+              "RelativeDocumentMoniker": "Technico\\Repositories\\RepairRepository.cs",
+              "ToolTip": "C:\\Users\\svranakis\\react\\Technico-App-Fullstack\\Technico\\Technico\\Repositories\\RepairRepository.cs",
+              "RelativeToolTip": "Technico\\Repositories\\RepairRepository.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAIwFYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:56:46.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RepairDto.cs",
+              "DocumentMoniker": "C:\\Users\\svranakis\\react\\Technico-App-Fullstack\\Technico\\Technico\\DTOs\\RepairDto.cs",
+              "RelativeDocumentMoniker": "Technico\\DTOs\\RepairDto.cs",
+              "ToolTip": "C:\\Users\\svranakis\\react\\Technico-App-Fullstack\\Technico\\Technico\\DTOs\\RepairDto.cs",
+              "RelativeToolTip": "Technico\\DTOs\\RepairDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:21:31.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRepairRepo.cs",
+              "DocumentMoniker": "C:\\Users\\svranakis\\react\\Technico-App-Fullstack\\Technico\\Technico\\Interfaces\\IRepairRepo.cs",
+              "RelativeDocumentMoniker": "Technico\\Interfaces\\IRepairRepo.cs",
+              "ToolTip": "C:\\Users\\svranakis\\react\\Technico-App-Fullstack\\Technico\\Technico\\Interfaces\\IRepairRepo.cs",
+              "RelativeToolTip": "Technico\\Interfaces\\IRepairRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:55:55.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepairService.cs",
+              "DocumentMoniker": "C:\\Users\\svranakis\\react\\Technico-App-Fullstack\\Technico\\Technico\\Interfaces\\IRepairService.cs",
+              "RelativeDocumentMoniker": "Technico\\Interfaces\\IRepairService.cs",
+              "ToolTip": "C:\\Users\\svranakis\\react\\Technico-App-Fullstack\\Technico\\Technico\\Interfaces\\IRepairService.cs",
+              "RelativeToolTip": "Technico\\Interfaces\\IRepairService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:51:19.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repair.cs",
+              "DocumentMoniker": "C:\\Users\\svranakis\\react\\Technico-App-Fullstack\\Technico\\Technico\\Models\\Repair.cs",
+              "RelativeDocumentMoniker": "Technico\\Models\\Repair.cs",
+              "ToolTip": "C:\\Users\\svranakis\\react\\Technico-App-Fullstack\\Technico\\Technico\\Models\\Repair.cs",
+              "RelativeToolTip": "Technico\\Models\\Repair.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:48:58.975Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
